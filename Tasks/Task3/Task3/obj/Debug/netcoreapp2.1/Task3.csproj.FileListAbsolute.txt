@@ -1,0 +1,11 @@
+D:\Projects\FuryLion\i.slepuhin\Task3\Task3\bin\Debug\netcoreapp2.1\Task3.deps.json
+D:\Projects\FuryLion\i.slepuhin\Task3\Task3\bin\Debug\netcoreapp2.1\Task3.runtimeconfig.json
+D:\Projects\FuryLion\i.slepuhin\Task3\Task3\bin\Debug\netcoreapp2.1\Task3.runtimeconfig.dev.json
+D:\Projects\FuryLion\i.slepuhin\Task3\Task3\bin\Debug\netcoreapp2.1\Task3.dll
+D:\Projects\FuryLion\i.slepuhin\Task3\Task3\obj\Debug\netcoreapp2.1\Task3.csproj.CoreCompileInputs.cache
+D:\Projects\FuryLion\i.slepuhin\Task3\Task3\obj\Debug\netcoreapp2.1\Task3.AssemblyInfoInputs.cache
+D:\Projects\FuryLion\i.slepuhin\Task3\Task3\obj\Debug\netcoreapp2.1\Task3.AssemblyInfo.cs
+D:\Projects\FuryLion\i.slepuhin\Task3\Task3\bin\Debug\netcoreapp2.1\Task3.pdb
+D:\Projects\FuryLion\i.slepuhin\Task3\Task3\obj\Debug\netcoreapp2.1\Task3.dll
+D:\Projects\FuryLion\i.slepuhin\Task3\Task3\obj\Debug\netcoreapp2.1\Task3.pdb
+D:\Projects\FuryLion\i.slepuhin\Task3\Task3\obj\Debug\netcoreapp2.1\Task3.csprojAssemblyReference.cache

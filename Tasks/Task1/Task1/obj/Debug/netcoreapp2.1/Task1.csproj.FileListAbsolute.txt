@@ -1,0 +1,11 @@
+D:\Projects\FuryLion\i.slepuhin\Task1\Task1\bin\Debug\netcoreapp2.1\Task1.deps.json
+D:\Projects\FuryLion\i.slepuhin\Task1\Task1\bin\Debug\netcoreapp2.1\Task1.runtimeconfig.json
+D:\Projects\FuryLion\i.slepuhin\Task1\Task1\bin\Debug\netcoreapp2.1\Task1.runtimeconfig.dev.json
+D:\Projects\FuryLion\i.slepuhin\Task1\Task1\bin\Debug\netcoreapp2.1\Task1.dll
+D:\Projects\FuryLion\i.slepuhin\Task1\Task1\bin\Debug\netcoreapp2.1\Task1.pdb
+D:\Projects\FuryLion\i.slepuhin\Task1\Task1\obj\Debug\netcoreapp2.1\Task1.csprojAssemblyReference.cache
+D:\Projects\FuryLion\i.slepuhin\Task1\Task1\obj\Debug\netcoreapp2.1\Task1.csproj.CoreCompileInputs.cache
+D:\Projects\FuryLion\i.slepuhin\Task1\Task1\obj\Debug\netcoreapp2.1\Task1.AssemblyInfoInputs.cache
+D:\Projects\FuryLion\i.slepuhin\Task1\Task1\obj\Debug\netcoreapp2.1\Task1.AssemblyInfo.cs
+D:\Projects\FuryLion\i.slepuhin\Task1\Task1\obj\Debug\netcoreapp2.1\Task1.dll
+D:\Projects\FuryLion\i.slepuhin\Task1\Task1\obj\Debug\netcoreapp2.1\Task1.pdb
